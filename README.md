@@ -2,7 +2,7 @@
 
 # Jonathan Ehrenreich Laursen
 
-**Computational Neuroscience · Active Inference · Bayesian Modeling**
+**Computational Neuroscience · Bayesian Statistics · Active Inference**
 
 MSc Neural Systems and Computation @ ETH Zürich & University of Zürich
 
