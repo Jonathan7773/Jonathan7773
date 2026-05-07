@@ -18,7 +18,7 @@ MSc Neural Systems and Computation @ ETH Zürich & University of Zürich
 
 I'm a master's student in Neural Systems and Computation at ETH Zürich and the University of Zürich, with a BSc in Cognitive Science from Aarhus University. My work sits at the intersection of Bayesian statistics, AI, computational neuroscience, and Active Inference, where I build and fit mathematical models of how minds infer and act in the world.
 
-Since January 2025, I've been a software developer at the Theoretical Neurobiology Unit (TNU) at ETH Zürich, where I co-authored and help maintain [ActiveInference.jl](https://github.com/Jonathan7773/ActiveInference.jl), a Julia library for simulation and parameter estimation of Active Inference models. 
+Since January 2025, I've been a software developer at the Theoretical Neurobiology Unit (TNU) at ETH Zürich, where I co-authored and help maintain [ActiveInference.jl](https://github.com/ComputationalPsychiatry/ActiveInference.jl), a Julia library for simulation and parameter estimation of Active Inference models. 
 
 Outside of research, I read broadly in philosophy of science and existential philosophy, play guitar, and rarely turn down a board game.
 
@@ -26,7 +26,7 @@ Outside of research, I read broadly in philosophy of science and existential phi
 
 ### Featured Work
 
-**[ActiveInference.jl](https://github.com/Jonathan7773/ActiveInference.jl)**
+**[ActiveInference.jl](https://github.com/ComputationalPsychiatry/ActiveInference.jl)**
 A Julia library for simulation and parameter estimation with Active Inference models. Published in *Entropy* (2025).
 
 > *More repositories below — feel free to explore.*
